@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yeetforge.work">
-    <img src="https://yeetforge.work/og-image.png" alt="YEETFORGE — 간단하게 즐길 수 있는 게임을 벼려서 세상에 냅다 던지는 게임 대장간" width="100%">
+    <img src="https://raw.githubusercontent.com/Yeet-Forge/.github/main/profile/assets/yeetforge-logo.png" alt="YEETFORGE" width="100%">
   </a>
 </p>
 
@@ -17,9 +17,21 @@
 
 ---
 
+## 🐈 내 옆에 고양이
+
+<p>
+  <img src="https://raw.githubusercontent.com/Yeet-Forge/.github/main/profile/assets/cat-by-my-side.png" alt="Cat by My Side app icon" width="96">
+</p>
+
+**고양이와 함께하는 느긋한 산책 · Android · iOS 정식 출시**
+
+종이 그림책 같은 동네에서 고양이와 천천히 걸어요. 길에서 만난 200명의 이웃을 도감에 모으고, 함께 걷는 고양이와 산책 풍경을 꾸며보세요.
+
+**[Google Play에서 다운로드](https://play.google.com/store/apps/details?id=work.yeetforge.strollcat)** · **[App Store에서 다운로드](https://apps.apple.com/kr/app/id6823018895)**
+
 ## 🔥 지금 용광로 안에는
 
-게임 다섯 개를 벼리고, 웹 랩 하나를 공개 운영하고 있습니다. (2026.10.15 기준)
+출시한 **내 옆에 고양이**에 이어 게임 다섯 개를 벼리고, 웹 랩 하나를 공개 운영하고 있습니다. (2026.10.26 기준)
 
 | 카트리지 | 장르 | 플랫폼 | 현재 상태 |
 | :--- | :--- | :---: | :---: |
@@ -70,5 +82,8 @@
 ---
 
 <p align="center">
+  <a href="https://yeetforge.work">
+    <img src="https://raw.githubusercontent.com/Yeet-Forge/.github/main/profile/assets/yeetforge-icon.jpg" alt="YEETFORGE anvil icon" width="48">
+  </a><br>
   <sub>COMMIT → HEAT → YEET → REPEAT</sub>
 </p>
